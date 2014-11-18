@@ -1,0 +1,5 @@
+src/app/code/community/Luemic/GridColor     app/code/community/Luemic/GridColor
+src/app/etc/modules/*    app/etc/modules/
+src/app/design/adminhtml/default/default/layout/luemic_gridcolor.xml     app/design/adminhtml/default/default/layout/luemic_gridcolor.xml
+src/skin/adminhtml/default/default/grid_color.css   skin/adminhtml/default/default/grid_color.css
+src/js/gridcolor.js js/gridcolor.js

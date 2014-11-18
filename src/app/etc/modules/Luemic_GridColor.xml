@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Luemic_GridColor>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends></depends>
+        </Luemic_GridColor>
+    </modules>
+</config>

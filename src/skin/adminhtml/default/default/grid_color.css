@@ -1,0 +1,8 @@
+.order_state_canceled {
+    background-color: red;
+}
+
+.order_state_complete, .order_state_processing {
+    color: white;
+    background-color: green;
+}
