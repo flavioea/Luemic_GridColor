@@ -1,6 +1,7 @@
 Luemic GridColor Extension
 =====================
-Add your description here
+Example how to colorize the grids in Magento's backend.
+
 Facts
 -----
 - version: 1.0.0
@@ -10,13 +11,13 @@ Facts
 Description
 -----------
 
+Example how to colorize the grids in Magento's backend.
 
 
 Requirements
 ------------
 - PHP >= 5.2.0
 - Mage_Core
-- ...
 
 Compatibility
 -------------
@@ -39,7 +40,7 @@ Any contribution is highly appreciated. The best way to contribute code is to op
 Developer
 ---------
 Michael Lühr
-[http://www.michael-luehr.de](http://www.michael-luehr.de)
+[http://www.michael-luehr.de](http://www.michael-luehr.de) <br />
 [@luemic](https://twitter.com/luemic)
 
 Licence
